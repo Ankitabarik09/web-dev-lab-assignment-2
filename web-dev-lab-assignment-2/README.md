@@ -1,22 +1,24 @@
 
 # Personal Portfolio Website
 
-## Web Development Lab Assignment 2
+## Web Development Lab Assignment 2 – CSS Core
 
 ### Student Details
 - **Name:** Ankita Barik
 - **Course:** B.Tech
 - **Year:** First Year
-- **College:** KR Mangalam University
+- **University:** KR Mangalam University
 
-## Project Description
-This is a personal portfolio website created using HTML5 and external CSS3. It showcases my introduction, technical skills, projects, and contact information.
+## About the Project
+This is my personal portfolio website created using HTML5 and CSS3.
+It introduces me, showcases my skills and projects, and provides
+my contact information.
 
 ## Technologies Used
 - HTML5
 - CSS3
 - Visual Studio Code
-- Git and GitHub
+- GitHub
 
 ## Website Sections
 1. Home
@@ -25,36 +27,42 @@ This is a personal portfolio website created using HTML5 and external CSS3. It s
 4. My Projects
 5. Contact Me
 
-## CSS Features
-- External CSS stylesheet
-- CSS selectors
-- Colors, fonts, margins, and padding
-- Borders and rounded corners
-- Hover effects and transitions
-- Flexbox and CSS Grid
-- Contact form styling
+## Features
+- Separate external CSS stylesheet
+- Navigation bar with section links
+- Personal profile photograph
+- CSS colors, fonts, margins and padding
+- Borders, rounded corners and hover effects
+- Flexbox and CSS Grid layouts
+- Contact form design
 - Responsive design using media queries
 
 ## Project Structure
 ```text
 web-dev-lab-assignment-2/
+│
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+│
+└── images/
+    └── ankita.jpg
 ```
 
-## How to Run
+## How to Run the Project
 1. Download or clone this repository.
 2. Keep `index.html` and `style.css` in the same folder.
-3. Open `index.html` in a web browser.
-4. Check the portfolio sections and styling.
+3. Keep the profile photo inside the `images` folder.
+4. Open `index.html` in a web browser.
 
 ## Learning Outcomes
-- Understanding external CSS
-- Applying CSS selectors and the box model
-- Styling navigation bars, sections, and forms
-- Creating a responsive website layout
+- Understanding HTML5 structure
+- Applying external CSS
+- Learning CSS selectors and the box model
+- Designing responsive web pages
+- Using Flexbox and CSS Grid
 
 ---
 
-Created by **Ankita Barik** | 2026
+**Created by:** Ankita Barik  
+**Year:** 2026
